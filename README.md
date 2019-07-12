@@ -1,6 +1,6 @@
-#Plan Generator
+# Plan Generator
 
-##How to Run
+## How to Run
 1 - Open project in your IDE<br/>
 2 - Open terminal on project root path, `mvn clean package`<br/>
 3 - All test cases should be passed<br/>
@@ -8,7 +8,7 @@
 5 - Setup SpringBoot Server and set path of main file<br/>
 6 - Run the server<br/>
 
-###Request Curl
+### Request Curl
 `
 curl -X POST \
   http://localhost:8080/v1/api/plans \
