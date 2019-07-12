@@ -8,7 +8,7 @@
 5 - Setup SpringBoot Server and set path of main file<br/>
 6 - Run the server<br/>
 
-### Request Curl
+## Request Curl
 `
 curl -X POST \
   http://localhost:8080/v1/api/plans \
@@ -23,7 +23,7 @@ curl -X POST \
 }' 
 `
 
-# TODO (Missed)
+## TODO (Missed)
 
 1 - Swagger Integration<br/>
 2 - Class Diagram<br/>
